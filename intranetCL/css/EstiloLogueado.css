@@ -1,0 +1,36 @@
+body{
+    background-color: #508BFC;
+    overflow-x: hidden;
+    overflow-y: hidden;    
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;    
+}
+p{
+    text-align: center;
+}
+.centrado{
+    border: 1px dotted #000;
+    padding: 8px;
+    font-size: 16px;
+    line-height: 12px;
+    font-family: 'Roboto', serif;
+    font-weight: bolder;    
+}
+a{
+    text-decoration: none;
+    padding: 2px 1px 0;
+    font-size: 13px;
+    font-family: 'Roboto', serif;
+    text-align: center; 
+}
+a:hover{
+    cursor:pointer;
+    background: #05D5F6;
+    font-weight: bolder;
+    border-bottom: 1px solid;
+}

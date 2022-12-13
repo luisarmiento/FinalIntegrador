@@ -1,0 +1,16 @@
+
+body{
+    background-color: #508bfc;    
+}
+ 
+.cabecera{ 
+   
+    margin-top:0;
+    text-align: center;
+    padding: 20px;
+    font-size: 38px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: bolder;  
+ 
+    
+}

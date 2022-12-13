@@ -1,0 +1,29 @@
+.container-table{
+	width: 90%;
+	margin: 50px auto;
+
+}
+.container__tittle{
+	margin: 0;
+	background:  rgba(120,65,40,1);
+	color: white;
+	text-align: center;
+	font-size: 1.9em;
+}
+.container__form{
+	background: white;
+	display: flex;
+	flex-wrap: wrap;
+}
+.container__label{
+	font-size:  1.3em;
+	width:  20%;
+}
+.container__input{
+	width:  25%;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	font-size: 1em;
+	padding: 5px;
+}
+

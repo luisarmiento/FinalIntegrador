@@ -1,0 +1,84 @@
+/*  * es un comodinn que indica que lo que se especifica se aplica a todas las etiquedas   */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    background-color: #508bfc;
+    font-family: 'Roboto',sans-serif;
+    line-height: 18px;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+}
+.btn-menu{
+    display: block;
+    margin: 0px;
+    padding: 15px 15px;
+    background: #1F4576;
+    color: #fff;    
+}
+.btn-menu .icono{
+    float: right;    
+}
+.contenedor-menu{
+    width: 20%;
+    min-width: 285px;
+    margin: 0px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    line-height: 18px;
+}
+.contenedor-menu ul{
+    list-style: none;
+}
+
+.contenedor-menu .menu li a{
+    color: #494949;
+    display: block;
+    padding: 15px 20px;
+    background: #E9E9E9;    
+}
+.contenedor-menu .menu li a:hover
+{
+    background: #508bfc;
+    color:#fff;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.contenedor-menu .menu.icono{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.contenedor-menu .menu .icono.izquierda{
+    float: left;
+    margin-right: 10px;
+}
+.contenedor-menu .menu .icono.derecha{
+    float: right;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
